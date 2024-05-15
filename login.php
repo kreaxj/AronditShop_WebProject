@@ -17,7 +17,7 @@
 	<input type="text" placeholder="Введите пароль" name="password">
 	</div>
 	<br>
-		<button type="submit" class="btn btn-primary">Войти</button>
+		<button style="background-color: #650000; "type="submit" class="btn btn-primary">Войти</button>
 	</form>
 	
 </body>

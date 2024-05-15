@@ -12,9 +12,9 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
 	<link href="static/css/style.css" rel="stylesheet" type="text/css">
 	<link rel="apple-touch-icon" sizes="180x180" href="/static/favicon//apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon//favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon//favicon-16x16.png">
-<link rel="manifest" href="/static/favicon//site.webmanifest">
+	<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon//favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon//favicon-16x16.png">
+	<link rel="manifest" href="/static/favicon//site.webmanifest">
 </head>
 <body>
 	<div class="vein"></div>

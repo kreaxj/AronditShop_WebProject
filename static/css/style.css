@@ -387,50 +387,5 @@ footer {
 	margin: 10px auto;
 }
 
-/* Таймер */
-.timer-main {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	height: 310px;
-	width: 1000px;
-	margin-top: -155px;
-	margin-left: -500px;
-	background: none;
-	text-align: center;
-}
 
-.timer-main > .title {
-	display: block;
-	font-size: 60px;
-	text-transform: uppercase;
-	color: var(--main-color-2);
-}
-
-.timer {
-	display: inline-block;
-	color: var(--main-color-2);
-	font-size: 30px;
-	font-weight: 100;
-	text-align: center;
-}
-
-.timer > div {
-	padding: 10px;
-	border-radius: 3px;
-	background: var(--main-color-1);
-	display: inline-block;
-}
-
-.timer div > span{
-	padding: 15px;
-	border-radius: 3px;
-	background: var(--main-color-1);
-	display: inline-block;
-}
-
-.small-text{
-	padding-top: 5px;
-	font-size: 16px;
-}
 

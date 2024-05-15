@@ -7,7 +7,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Админ панель</title>
-	<link href="static/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	<link href="static/css/adminPanel.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 
@@ -16,7 +16,7 @@
 
 <?php if(!empty($_SESSION['login'])) :?>
 
-<?php echo "Вы в админке,".$_SESSION['login']; ?>
+<?php echo "<h1>Вы в админке, ".$_SESSION['login']."</h1>"; ?>
 <br>
 <a href="/admin/editGoods.php">Редактировать товары</a>
 <br>
@@ -25,7 +25,7 @@
 <a href="/logout.php">Выйти</a>
 
 <?php else:
-	echo '<h2>Неудача</h2>';
+	echo '<h1>Хорошая попытка</h1>';
 	echo '<a href="/">Выйти</a>';
 ?>
 
